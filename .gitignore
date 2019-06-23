@@ -1,0 +1,4 @@
+#Este archivo sirve para excluir todo lo que se encuentra en este archivo
+
+node_modules/
+tablas/*.txt
